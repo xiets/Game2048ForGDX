@@ -1,0 +1,139 @@
+
+game.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_again
+  rotate: false
+  xy: 711, 754
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 1
+btn_again
+  rotate: false
+  xy: 484, 488
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 2
+btn_back
+  rotate: false
+  xy: 484, 431
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 1
+btn_back
+  rotate: false
+  xy: 440, 374
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 2
+dialog_btn_cancel
+  rotate: false
+  xy: 440, 317
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 1
+dialog_btn_cancel
+  rotate: false
+  xy: 440, 260
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 2
+dialog_btn_ok
+  rotate: false
+  xy: 440, 203
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 1
+dialog_btn_ok
+  rotate: false
+  xy: 440, 146
+  size: 170, 55
+  orig: 170, 55
+  offset: 0, 0
+  index: 2
+game_blank
+  rotate: false
+  xy: 938, 1009
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+game_btn_exit
+  rotate: false
+  xy: 484, 931
+  size: 225, 88
+  orig: 225, 88
+  offset: 0, 0
+  index: 1
+game_btn_exit
+  rotate: false
+  xy: 484, 841
+  size: 225, 88
+  orig: 225, 88
+  offset: 0, 0
+  index: 2
+game_btn_help
+  rotate: false
+  xy: 711, 931
+  size: 225, 88
+  orig: 225, 88
+  offset: 0, 0
+  index: 1
+game_btn_help
+  rotate: false
+  xy: 484, 751
+  size: 225, 88
+  orig: 225, 88
+  offset: 0, 0
+  index: 2
+game_help_bg
+  rotate: false
+  xy: 2, 439
+  size: 480, 580
+  orig: 480, 580
+  offset: 0, 0
+  index: -1
+game_logo
+  rotate: false
+  xy: 711, 811
+  size: 141, 118
+  orig: 141, 118
+  offset: 0, 0
+  index: -1
+game_rect_bg
+  rotate: false
+  xy: 2, 2
+  size: 436, 435
+  orig: 436, 435
+  offset: 0, 0
+  index: -1
+game_round_rect
+  rotate: false
+  xy: 614, 659
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+game_score_bg_best
+  rotate: false
+  xy: 484, 648
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+game_score_bg_now
+  rotate: false
+  xy: 484, 545
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
